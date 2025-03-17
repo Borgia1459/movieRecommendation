@@ -1,0 +1,2 @@
+
+TRAIN= '../inputs/CTG.xls'
